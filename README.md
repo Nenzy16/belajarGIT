@@ -9,10 +9,10 @@
 7. Tugas-finalProject
 
 ## Daftar perintah GiT
-git clone : Meng-clone repository dari github ke lokal.
-git branch : Membuat branch baru.
-git checkout : berpindah antara branch.
-git add : Menambahkan file ke staging area.
-git commit : Melakukan commit.
-git merge : Menggabungkan branch.
-git push : Mengunggah perubahan ke GitHub.
+- git clone : Meng-clone repository dari github ke lokal.
+- git branch : Membuat branch baru.
+- git checkout : berpindah antara branch.
+- git add : Menambahkan file ke staging area.
+- git commit : Melakukan commit.
+- git merge : Menggabungkan branch.
+- git push : Mengunggah perubahan ke GitHub.
